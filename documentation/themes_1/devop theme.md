@@ -5,4 +5,4 @@ You can fill in the placeholders with your own information to create a complete 
 
 
 # List initiatives related to this theme
-1. [DevOps initiatives are specific projects or programs that support the broader DevOps themes.](documentation/templates/theme/initiatives/initiative_template.md)
+1. [DevOps initiatives are specific projects or programs that support the broader DevOps themes.](documentation/themes_1/devop initiatives.md)
