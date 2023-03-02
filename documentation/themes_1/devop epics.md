@@ -16,5 +16,6 @@ Business Value: Enhancing the security of applications can provide significant b
 
 Priority: The priority of this initiative should be high, given the importance of security in today's digital landscape. It should be considered a critical component of the organization's overall DevOps strategy and should be prioritized accordingly.
 
+
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)

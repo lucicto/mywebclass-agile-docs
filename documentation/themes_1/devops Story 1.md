@@ -15,5 +15,6 @@ Acceptance Criteria:
 -Feedback from developers should be collected to ensure that the training is meeting their needs and expectations.
 
 
+
 # List Stories related to this theme
 1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
