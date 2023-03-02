@@ -22,5 +22,6 @@ Dependencies: Other initiatives, projects, or programs that the initiative depen
 
 Team: The roles and responsibilities of team members involved in the initiative, including any external partners or stakeholders. This may include developers, operations personnel, QA engineers, project managers, product owners, and other stakeholders.
 
+
 # List epics related to this theme
 1. [Enhancing the security of applications](documentation/templates/theme/initiatives/epics/epic_template.md)
